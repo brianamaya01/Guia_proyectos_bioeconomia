@@ -1,0 +1,27 @@
+# Alcance de la guía
+
+Esta guía busca acompañar, paso a paso, a personas y organizaciones que desean formular e implementar proyectos de bioeconomía, desde la primera idea hasta la operación y mejora continua del emprendimiento o iniciativa. Presenta herramientas prácticas (plantillas, listas de chequeo, ejemplos y esquemas visuales) para que los actores puedan transformar recursos biológicos y conocimientos locales en proyectos económicamente viables, ambientalmente responsables y socialmente justos.
+
+La guía también pretende facilitar el diálogo con entidades públicas, financiadores y aliados técnicos, ayudando a que los proyectos hablen un “lenguaje común” en términos de objetivos, resultados, riesgos, impactos y sostenibilidad. De este modo, se convierte en un insumo tanto para el diseño interno del proyecto como para la presentación a convocatorias, fondos o programas de apoyo.
+
+La guía está dirigida a personas naturales y jurídicas que deseen plantear y ejecutar proyectos de bioeconomía en contextos rurales, urbanos o periurbanos, incluyendo:
+
+-   Emprendedores individuales que quieren iniciar o formalizar un negocio bioeconómico (por ejemplo, transformación de productos agrícolas, biocosmética, alimentos funcionales, turismo de naturaleza).
+
+-   Asociaciones, cooperativas y organizaciones comunitarias interesadas en aprovechar de manera sostenible la biodiversidad, los residuos o los subproductos de sus actividades productivas, generando nuevos ingresos y fortaleciendo la organización.
+
+-   Pequeñas y medianas empresas que desean diversificar su portafolio con bioproductos o servicios basados en recursos biológicos, incorporando criterios de sostenibilidad e inclusión social.
+
+-   Entidades sin ánimo de lucro, organizaciones de base y proyectos de conservación que buscan modelos de negocio sostenibles para complementar estrategias de protección de la biodiversidad y el territorio.
+
+Aunque la guía está pensada para lectores sin formación técnica avanzada, también puede ser utilizada por equipos de asistencia técnica, instituciones públicas, universidades y programas de cooperación como material de trabajo en procesos de capacitación, formulación participativa de proyectos o acompañamiento a bioemprendimientos. Nota sobre el uso de la guía Aunque esta guía se estructura en cuatro etapas secuenciales, su aplicación no requiere seguir un orden rígido ni secuencial. Los usuarios pueden adaptar el proceso a su contexto específico, ejecutando las actividades en el orden que mejor se ajuste a sus necesidades, omitiendo pasos no aplicables o regresando a secciones previas según sea necesario. Para facilitar la implementación práctica, cada etapa incluye herramientas y materiales de apoyo específicos (plantillas, matrices, checklists, ejemplos reales), claramente referenciados y disponibles en los anexos de la guía. Estos recursos pueden consultarse y utilizarse de manera independiente en cualquier momento del proceso. La guía funciona como un repertorio flexible de instrumentos metodológicos, permitiendo a emprendedores, asociaciones, empresas y organizaciones seleccionar y combinar las herramientas según el estado de madurez de su proyecto y sus prioridades estratégicas.
+
+::: {.callout-note collapse="true"}
+## Uso de la guía
+
+Aunque esta guía se estructura en cuatro etapas secuenciales, su aplicación no requiere seguir un orden rígido ni secuencial. Los usuarios pueden adaptar el proceso a su contexto específico, ejecutando las actividades en el orden que mejor se ajuste a sus necesidades, omitiendo pasos no aplicables o regresando a secciones previas según sea necesario.
+
+Para facilitar la implementación práctica, cada etapa incluye herramientas y materiales de apoyo específicos (plantillas, matrices, checklists, ejemplos reales), claramente referenciados y disponibles en los anexos de la guía. Estos recursos pueden consultarse y utilizarse de manera independiente en cualquier momento del proceso.
+
+La guía funciona como un repertorio flexible de instrumentos metodológicos, permitiendo a emprendedores, asociaciones, empresas y organizaciones seleccionar y combinar las herramientas según el estado de madurez de su proyecto y sus prioridades estratégicas.
+:::

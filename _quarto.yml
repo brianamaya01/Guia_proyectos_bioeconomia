@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Guía para la formulación y ejecución de proyectos de Bioeconomía"
+  chapters:
+    - index.qmd
+    #- capitulo1.qmd
+    - capitulo2.qmd
+    #- summary.qmd
+    #- references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,134 @@
+# Etapa 1. Comprender y descubrir la oportunidad
+
+## Comprender la bioeconomía
+
+La bioeconomía es el uso sostenible de recursos biológicos como plantas, animales, microorganismos y residuos orgánicos. Estos recursos se transforman en productos, procesos y servicios mientras se mantiene la salud de los ecosistemas y se mejora el bienestar de las comunidades. En Colombia, la bioeconomía aprovecha la megabiodiversidad del país para crear cadenas de valor. Estas cadenas sustituyen materiales fósiles como petróleo y plásticos por bioproductos renovables. Así se contribuye a la descarbonización y al desarrollo territorial.
+
+En el marco de la Política de Crecimiento Verde, se usa una definición que resalta el “cómo” y el “para qué”: gestionar de forma eficiente y sostenible la biodiversidad y la biomasa para generar nuevos productos, procesos y servicios basados en conocimiento e innovación.
+
+::: {.callout-caution collapse="true" appearance="minimal"}
+## ¿Qué NO es (por sí sola) la bioeconomía?
+
+-   **No es solo “usar algo natural”**. Si se sobreexplota una especie, se contamina o se excluye a la comunidad, deja de ser bioeconomía sostenible. La bioeconomía no es inherentemente sostenible, pues su sostenibilidad depende de cómo los recursos biológicos son producidos, procesados, usados y gobernados (FAO, 2019; OECD, 2015). 
+
+-   **No es solo biotecnología de laboratorio**. También incluye procesos sencillos y comunitarios (por ejemplo, transformar residuos orgánicos en abonos, biogás, biomateriales o ingredientes), siempre que haya sostenibilidad y valor agregado.
+:::
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **¿Por qué la bioeconomía es clave hoy?**
+
+1.  **Reducir dependencia de petróleo y materiales fósiles:** una idea central es reemplazar gradualmente insumos fósiles por materias primas biológicas renovables (cuando esto sea viable y sostenible). 
+
+2.  **Aprovechar mejor la biomasa y los residuos:** muchos “desechos” agrícolas, forestales o urbanos pueden convertirse en productos con valor (economía circular). 
+
+3.  **Crear valor en el territorio:** la bioeconomía busca que el valor se quede más en la región (transformación local, empleo local, encadenamientos, identidad territorial). Esto conecta con la idea de Crecimiento Verde de diversificar la economía con bienes y servicios basados en el uso sostenible del capital natural.
+:::
+
+### Principios prácticos para reconocer un proyecto bioeconómico
+
+Para reconocer un proyecto bioeconómico, conviene mirar cada idea a través de cinco lentes. Estos lentes recogen los principios que plantea la FAO (2019) y que también aparecen en otros marcos internacionales: sostenibilidad ambiental, social y económica, y buena gobernanza (reglas claras, participación y transparencia)
+
+A continuación, encontrarás algunas preguntas orientadoras para evaluar si tu idea se alinea con cada lente. Si todavía no puedes responderlas con claridad, no te preocupes: a lo largo de esta guía aprenderás paso a paso cómo identificar estos elementos y cómo fortalecer tu proyecto.
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **Principio 1. Sostenibilidad ambiental (cuidar la base natural)**
+
+-   ¿El proyecto mantiene o mejora el ecosistema (suelo, agua, bosque, polinizadores)?
+-   ¿Evita sobreexplotación y tiene plan de manejo/monitoreo?
+:::
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **Principio 2. Inclusión social (beneficios justos y participación real)**
+
+-   ¿La comunidad participa en decisiones y acuerdos?
+-   ¿Los beneficios (ingresos, empleo, capacidades) se distribuyen de forma justa?
+:::
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **Principio 3. Viabilidad económica (que se sostenga en el tiempo)**
+
+-   ¿Hay clientes, ingresos y costos claros?
+-   ¿La propuesta de valor es competitiva?
+:::
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **Principio 4. Enfoque territorial (responde a un lugar y su gente)**
+
+-   ¿Parte de recursos, cultura, capacidades y necesidades del territorio?
+-   ¿Fortalece encadenamientos locales (proveedores, aliados, mercados cercanos)?
+:::
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### **Principio 5. Enfoque de género y juventudes (oportunidades para quienes suelen quedar por fuera)**
+
+-   ¿Abre espacios reales para mujeres y jóvenes (empleo, liderazgo, formación, propiedad/beneficios)?
+-   ¿Reduce barreras (tiempo de cuidado, acceso a activos, seguridad, voz en decisiones)?
+:::
+
+### ¿Qué convierte una idea en “proyecto de bioeconomía”?
+
+Un proyecto de bioeconomía, en la práctica, transforma recursos biológicos locales en bienes o servicios y busca sostener tres resultados al tiempo: - Económico: ingresos viables y empleo digno. - Ambiental: uso regenerativo (no extractivo) y menor huella (emisiones, residuos, contaminación). - Social: beneficios justos, con prioridad a comunidades locales, mujeres y jóvenes.
+
+Esto suele implicar (no siempre todo, pero sí la lógica):
+
+-   Transformación local (más valor agregado, menos “solo extraer y vender”).
+-   Trazabilidad y diferenciación (origen, sostenibilidad, historia del territorio).
+-   Innovación apropiada (puede ser alta tecnología o tecnología sencilla; lo clave es que resuelva un problema y sea sostenible).
+
+#### Diferencia con un proyecto convencional
+
+La siguiente tabla muestra algunas diferencias clave entre un proyecto productivo tradicional y uno de bioeconomía. Estas diferencias marcan el potencial transformador de la bioeconomía para Colombia.
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| **Aspecto** | **Proyecto convencional** | **Proyecto de bioeconomía** |
+| Recursos base | Usa petróleo, minerales y químicos sintéticos. | Usa biomasa renovable, biodiversidad y residuos orgánicos. ​ |
+| Impacto ambiental | Genera altas emisiones, contaminación y agotamiento de recursos. | Genera impacto neutral o positivo: conservación, captura de carbono y economía circular. |
+| Escala y territorio | Opera a escala global y deslocalizada. | Opera a escala local o regional, conectada al territorio y comunidades. |
+| Valor agregado | Bajo: exporta materia prima sin procesar. | Alto: transformación local con trazabilidad y certificaciones. |
+| Beneficios sociales | Empleo formal limitado. | Inclusión comunitaria, conocimiento tradicional y equidad de género. |
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+### Ejemplo: Asaí amazónico - Dos modelos económicos, dos destinos
+
+![](images/convencional_bioec.png)
+:::
+
+> **Lección clave:** La bioeconomía convierte la mega biodiversidad colombiana en oportunidades de ingresos sostenibles, transformando recursos locales renovables en productos de alto valor con triple impacto: económico, ambiental y social.
+
+::: {.callout-tip appearance="simple"}
+## Autoevaluación rápida
+
+Marca con ✅ si aplica a tu idea
+
+<label>
+  <input type="checkbox" id="cbox1" value="recurso_renovable" />
+  Usa un recurso biológico renovable (biomasa, biodiversidad o residuo orgánico)
+</label>
+<br />
+
+<label>
+  <input type="checkbox" id="cbox2" value="plan_aprovechamiento" />
+  Tiene plan para no sobreexplotarlo (Plan de aprovechamiento de la especie)
+</label>
+<br />
+
+<label>
+  <input type="checkbox" id="cbox3" value="empleo_local" />
+  Genera empleo local inclusivo
+</label>
+<br />
+
+<label>
+  <input type="checkbox" id="cbox4" value="transformacion_local" />
+  Transforma localmente (no solo extrae y vende)
+</label>
+<br />
+
+<label>
+  <input type="checkbox" id="cbox5" value="clientes_sostenibilidad" />
+  Los clientes valoran sostenibilidad y origen
+</label>
+
+Con 2–3 ✅ ya hay base sólida para explorar oportunidad; con 1 ✅ puedes pensar en un piloto pequeño; con 0 ✓ tal vez la idea necesita ajustarse para ser realmente bioeconómica.
+:::

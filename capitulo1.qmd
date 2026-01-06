@@ -1,0 +1,40 @@
+# Capítulo 1: Elección inicial
+
+En este capítulo usted debe elegir una estrategia.
+
+<button onclick="mostrar('A')">Estrategia A</button>
+<button onclick="mostrar('B')">Estrategia B</button>
+
+<script>
+function mostrar(opcion) {
+  document.getElementById("A").style.display = "none";
+  document.getElementById("B").style.display = "none";
+  document.getElementById(opcion).style.display = "block";
+}
+</script>
+
+<div id="A" style="display:none">
+
+## Estrategia A: Enfoque Conservador
+
+Esta estrategia prioriza:
+- Bajo riesgo
+- Crecimiento gradual
+- Alta estabilidad
+
+[Continuar al Capítulo 2](capitulo2.html)
+
+</div>
+
+<div id="B" style="display:none">
+
+## Estrategia B: Enfoque Agresivo
+
+Esta estrategia prioriza:
+- Alto riesgo
+- Crecimiento acelerado
+- Mayor volatilidad
+
+[Continuar al Capítulo 2](capitulo2.html)
+
+</div>
