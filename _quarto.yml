@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Guía para la formulación y ejecución de proyectos de Bioeconomía"
